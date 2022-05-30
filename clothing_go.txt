@@ -84,7 +84,7 @@ select avg (item_price) as 'Average Price' from order_table
 select max (item_price) as 'Max Price' from order_table
 select min (item_price) as 'Min Price' from order_table
 select count (item_price) as 'Number of Values' from order_table
-select item_price as 'price' , order_id as 'id' , item_price as 'type' ,  item_name as 'name' , item_size as 'size' from  order_table*/
+select item_price as 'price' , order_id as 'id' , item_price as 'type' ,  item_name as 'name' , item_size as 'size' from  order_table
 
 
 
